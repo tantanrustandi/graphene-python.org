@@ -29,7 +29,7 @@ We believe that GraphQL is the next big thing after peanut butter and REST.
 
 <div class="footer-love">
 
-Created with ![love](./love.png) in San Francisco
+Created with ![love](./love.png) in San Francisco with tantan
 
 </div>
 
